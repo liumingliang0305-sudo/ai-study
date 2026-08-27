@@ -39,5 +39,10 @@
 | Date | Lesson | Quiz | Note |
 |------|--------|------|------|
 
-## Review queue
+## Current checkpoint
+- Date: 2026-08-27
+- Lesson: `01-math-foundations/01-linear-algebra-intuition` (in progress)
+- Resume at: Compare the cosine similarity of `[1,1]` with `[2,2]` and `[20,20]`; decide whether the results are equal and estimate the value.
+- Evidence: Correctly interpreted matrix rows as output-specific weights; computed matrix-vector scores `6.9` and `7.6`; computed aligned, perpendicular, and opposite dot products as `4`, `0`, and `-4`.
 
+## Review queue
