@@ -38,12 +38,13 @@
 ## Progress log
 | Date | Lesson | Quiz | Note |
 |------|--------|------|------|
+| 2026-08-28 | `01-math-foundations/01-linear-algebra-intuition` | 3/3 | 理解了 Gram-Schmidt 通过减去投影去除重叠方向；需要用纯文本展示公式，并继续巩固 LoRA 的低秩矩阵尺寸与乘法。 |
 
 ## Current checkpoint
 - Date: 2026-08-28
-- Lesson: `01-math-foundations/01-linear-algebra-intuition` (in progress)
-- Resume at: Gram-Schmidt example: for `v1=[1,0]` and `v2=[1,1]`, calculate the projection of `v2` onto `u1=[1,0]`, then calculate `v2 - projection`.
-- Evidence: Correctly interpreted matrix rows as output-specific weights; computed matrix-vector scores `6.9` and `7.6`; computed aligned, perpendicular, and opposite dot products as `4`, `0`, and `-4`; calculated cosine similarities as `1`; identified dependent vectors as linear combinations; used a non-standard basis to represent `[4,2]` with coordinates `[3,1]`; calculated the projection of `[3,4]` onto `[1,0]` as `[3,0]`.
+- Next lesson: `01-math-foundations/02-vectors-matrices-operations`
+- Resume at: Start the lesson.
+- Evidence: Completed Linear Algebra Intuition with quiz score `3/3`; explained Gram-Schmidt as subtracting overlapping projections, traced the scratch implementation, and explained how LoRA forms a full-size update from two trainable low-rank matrices.
 
 ## Lesson notes
 
